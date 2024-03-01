@@ -1,0 +1,27 @@
+[
+    {
+      "name": "Tervezés",
+      "image": "./images/img08.jpg"
+    },
+    {
+      "name": "Kivitelezés",
+      "image": "./images/img04.jpg"
+    },
+    {
+      "name": "Ajánlat készítés",
+      "image": "./images/img06.jpg"
+    },
+    {
+      "name": "Látványtervezés",
+      "image": "./images/img04.jpg"
+    },
+    {
+      "name": "Karbantartás",
+      "image": "./images/img02.jpg"
+    },
+    {
+      "name": "Egyedi bútor",
+      "image": "./images/img09.jpg"
+    }
+    
+  ]
